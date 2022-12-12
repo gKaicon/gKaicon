@@ -1,8 +1,8 @@
  Meu nome é Gabriel Káicon <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" >
  
 <div align="center">
-	<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkaicon&layout=compact&langs_count=7&theme=dracula"/>
-  	<img width="500em" src="https://github-readme-stats.vercel.app/api?username=gkaicon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	<img width="500em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkaicon&layout=compact&langs_count=7&theme=dracula"/>
+  	<img width="500em" height="300em src="https://github-readme-stats.vercel.app/api?username=gkaicon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block" align="center">
 	<br>
