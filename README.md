@@ -1,7 +1,8 @@
  Meu nome é Gabriel Káicon
  
-#Estou interessado em aumentar meus conhecimentos em programção full-stack, linguagens SQL e informática no geral. 
-#Atualmente tenho conhecimento das linguagens de programação:
+Estou interessado em aumentar meus conhecimentos em programção full-stack, linguagens SQL e informática no geral. 
+
+Atualmente tenho conhecimento das linguagens de programação:
  - Java
  - PHP
  - HTML
@@ -9,6 +10,7 @@
  - JavaScript
  - C/C++
  - Python
+
 Em questão de linguagens SQL, e uso de SGBDs, tenho conhecimento do MySQL, e PostGreeSQL
 Meus repositórios são organizados por linguagem e finalidade.
 
