@@ -12,6 +12,7 @@ Atualmente tenho conhecimento das linguagens de programação:
  - Python
 
 Em questão de linguagens SQL, e uso de SGBDs, tenho conhecimento do MySQL, e PostGreeSQL
+
 Meus repositórios são organizados por linguagem e finalidade.
 
 <div align="center">
