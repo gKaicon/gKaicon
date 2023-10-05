@@ -1,12 +1,16 @@
- Meu nome é Gabriel Káicon <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" >
+ Meu nome é Gabriel Káicon
  
- - Estou interessado em aumentar meus conhecimentos em programção e informática no geral. 
- - Atualmente tenho conhecimento em linguagens de programação como Java, Portugol, PHP, HTML, css, JavaScript, C/C++. 
- - Fora a programação tenho conhecimentos em Excel, e SQL para Banco de Dados.
- - A título de organização vou criar repositórios organizada pelas linguagens, que tenho conhecimento.
-
-*Caso futuramente eu aprenda novas adicionarei mais repositórios.
-
+ - Estou interessado em aumentar meus conhecimentos em programção full-stack, linguagens SQL e informática no geral. 
+ - Atualmente tenho conhecimento das linguagens de programação:
+ - Java
+ - PHP
+ - HTML
+ - CSS
+ - JavaScript
+ - C/C++
+ - Python
+ - Em questão de linguagens SQL, e uso de SGBDs, tenho conhecimento do MySQL, e PostGreeSQL
+ - Meus repositórios são organizados por linguagem e finalidade.
 
 <div align="center">
 	<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkaicon&layout=compact&langs_count=7&theme=dracula"/>
