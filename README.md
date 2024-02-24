@@ -1,16 +1,15 @@
- Meu nome é Gabriel Káicon, atualmente tenho 19 anos, sou formado como técnico em informática, pelo IFMG-SJE. Atualmente estou na trajetoria do ensino superior como Bacharelando em Sistemas de Informação, estou no 4° período.
+ Meu nome é Gabriel Káicon, atualmente tenho 19 anos, sou formado como técnico em informática, pelo IFMG-SJE. Atualmente estou na trajetoria do ensino superior como Bacharelando em Sistemas de Informação, estou no 5° período.
  
 Estou interessado em aumentar meus conhecimentos em programção full-stack, linguagens SQL e informática no geral. 
 
 Atualmente tenho conhecimento das linguagens de programação:
  - Java
  - PHP
- - HTML
- - CSS
  - JavaScript
  - C/C++
+ - C#
  - Python
-
+Tenho conhecimento em HTML e CSS
 Em questão de linguagens SQL, e uso de SGBDs, tenho conhecimento do MySQL, e PostGreeSQL
 
 Meus repositórios são organizados por linguagem e finalidade.
