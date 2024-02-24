@@ -9,6 +9,7 @@ Atualmente tenho conhecimento das linguagens de programação:
  - C/C++
  - C#
  - Python
+   
 Tenho conhecimento em HTML e CSS
 Em questão de linguagens SQL, e uso de SGBDs, tenho conhecimento do MySQL, e PostGreeSQL
 
