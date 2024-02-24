@@ -1,4 +1,4 @@
- Meu nome é Gabriel Káicon, atualmente tenho 19 anos, sou formado como técnico em informática, pelo IFMG-SJE. Atualmente estou na trajetoria do ensino superior como Bacharelando em Sistemas de Informação, estou no 5° período.
+ Meu nome é Gabriel Káicon, atualmente tenho 20 anos, sou formado como técnico em informática, pelo IFMG-SJE. Atualmente estou na trajetoria do ensino superior como Bacharelando em Sistemas de Informação, estou no 5° período.
  
 Estou interessado em aumentar meus conhecimentos em programção full-stack, linguagens SQL e informática no geral. 
 
