@@ -1,13 +1,13 @@
 <h1>Olá meu nome é Gabriel Káicon :wave:</h1>
 <div align="center">
-	<h3 >🗿 - 21 years</h3>
-	<h5>🗿 - 21 anos</h5>
-	<h3>🌐 - Informatic technician - IFMG-SJE</h3>
-	<h5>🌐 - Técnico em Informática - IFMG-SJE</h5>
-	<h3>👨‍💻 -Bachelor of Information Systems - 6/8 period</h3>
-	<h5>👨‍💻 - Bacharelando em Sistemas de Informação - 6/8 período</h5>
-	<h3>🚀 - This is what I know:</h3>	
-	<h5>🚀 - O que tenho conhecimento:</h5>
+	<h3>🗿 - 21 anos</h3>
+	<h5 >🗿 - 21 years</h5>
+	<h3>🌐 - Técnico em Informática - IFMG-SJE</h3>
+	<h5>🌐 - Informatic technician - IFMG-SJE</h5>
+	<h3>👨‍💻 - Bacharelando em Sistemas de Informação - 6/8 período</h3>
+	<h5>👨‍💻 -Bachelor of Information Systems - 6/8 period</h5>
+	<h3>🚀 - O que tenho conhecimento:</h3>
+	<h5>🚀 - This is what I know:</h5>	
 </div>
 
 <div style="display: inline_block" align="center">
