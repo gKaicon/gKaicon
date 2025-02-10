@@ -4,11 +4,11 @@
 	<h3>🗿 - 21 anos</h3>
 	<p style="font-size: 10px; margin: 0;">🗿 - 21 years</small>
 	<h3>🌐 - Técnico em Informática - IFMG-SJE</h3>
-	<p style="font-size: 10px; margin: 0;">🌐 - Informatic technician - IFMG-SJE</p style="font-size: 10px; margin: 0;">
+	<p style="font-size: 10px; margin: 0;">🌐 - Informatic technician - IFMG-SJE</p>
 	<h3>👨‍💻 - Bacharelando em Sistemas de Informação - 6/8 p style="font-size: 10px; margin: 0;"eríodo</h3>
-	<p style="font-size: 10px; margin: 0;">👨‍💻 -Bachelor of Information Systems - 6/8 p style="font-size: 10px; margin: 0;"eriod</p style="font-size: 10px; margin: 0;">
+	<p style="font-size: 10px; margin: 0;">👨‍💻 -Bachelor of Information Systems - 6/8 period</p>
 	<h3>🚀 - O que tenho conhecimento:</h3>
-	<p style="font-size: 10px; margin: 0;">🚀 - This is what I know:</p style="font-size: 10px; margin: 0;">	
+	<p style="font-size: 10px; margin: 0;">🚀 - This is what I know:</p>	
 </div>
 
 <div style="disp style="font-size: 10px; margin: 0;"lay: inline_block" align="center">
