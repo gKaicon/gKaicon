@@ -2,7 +2,7 @@
 <div align="center">
 	<h3>🗿 - 21 anos</h3>	
 	<h3>🌐 - Técnico em Informática - IFMG-SJE</h3>
-	<h3>👨‍💻 - Bacharelando em Sistemas de Informação - 6/8 período</h3>
+	<h3>👨‍💻 - Bacharelando em Sistemas de Informação - 7/8 período</h3>
 	<h3>🚀 - O que tenho conhecimento:</h3>
 </div>
 
