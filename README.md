@@ -4,9 +4,9 @@
 <h3 align="center">Desenvolvedor(a) Full-Stack | Apaixonado(a) por criar soluções inovadoras</h3>
 
 <p align="center">
-<!--   <a href="mailto:[SEU_EMAIL]" target="_blank">
+   <a href="mailto:gkaicon2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a> -->
+  </a>
   <a href="www.linkedin.com/in/gkaicon21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
