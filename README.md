@@ -93,7 +93,7 @@ Sou um desenvolvedor focado em criar aplicações web robustas e escaláveis. At
     <td width="50%">
       <h3 align="center">Frontend da Cafeteria</h3>
       <div align="center">
-        <a href="[[LINK_DO_REPOSITORIO]](https://github.com/gKaicon/frontend_estoque_cafeteria)" target="_blank">
+        <a href="https://github.com/gKaicon/frontend_estoque_cafeteria" target="_blank">
           </a>
         <p>
           <a href="https://github.com/gKaicon/frontend_estoque_cafeteria" target="_blank">
@@ -105,6 +105,26 @@ Sou um desenvolvedor focado em criar aplicações web robustas e escaláveis. At
         </p>
         <p>
           Interface moderna e responsiva em Next.js e Tailwind CSS para interagir com a API da cafeteria.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+	<td width="">
+      <h3 align="center">NutriCalc</h3>
+      <div align="center">
+        <a href="https://github.com/gKaicon/gym_calc" target="_blank">
+          </a>
+        <p>
+          <a href="https://github.com/gKaicon/gym_calc" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%B3digo-1D1F21?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://gym-calc.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-255E63?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+        </p>
+        <p>
+          App em React.js e estilizado com Tailwind CSS para dar um norte para aqueles que procuram melhorar por meio da alimentação.
         </p>
       </div>
     </td>
